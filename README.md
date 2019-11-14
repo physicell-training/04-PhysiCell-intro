@@ -1,4 +1,4 @@
-# Lesson 04 : Introduction to PhysiCell
+# Lesson 4 : Introduction to PhysiCell
 This lesson introduces the overall purpose and design of PhysiCell. 
 
 ## Video recording of lesson 
@@ -22,5 +22,5 @@ None for this lesson.
 1. pc4cancerbots (an example of an agent-based model) https://www.nanohub.org/tools/pc4cancerbots  
 1. pc4cancerimmuine (an example of an agent-based model) https://www.nanohub.org/tools/pc4cancerimmune 
 
-See [lesson 02](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
+See [Lesson 2](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
 
